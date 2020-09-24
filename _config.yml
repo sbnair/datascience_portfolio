@@ -9,8 +9,8 @@ defaults:
 paginate: 10
 paginate_path: "/blog/page:num/"
 
-title: Christian Ezeani
-subtitle: Full-Stack Developer
+title: Shailesh B Nair
+subtitle: Data Scientist
 
 # left_side:
 #   background_image: "./assets/images/left-background.jpg"
@@ -19,7 +19,7 @@ subtitle: Full-Stack Developer
 #   text_color: "#F00"
 
 footer:
-  copyright_text: "&copy; Christian Ezeani"
+  copyright_text: "&copy; Shailesh B Nair"
 
 # Side Menu Links
 menu:
@@ -39,27 +39,21 @@ menu:
     link: /resume
     icon: ""
 
-  - text: Blog Posts
+  - text: Blogs
     link: /blog
     icon: ""
 
 # Socialmedia Icons
 social_icons:
   - name: linkedin
-    link: https://www.linkedin.com/christianezeani
+    link: https://www.linkedin.com/in/shaileshbnair
     icon: fab fa-linkedin
 
   - name: github
-    link: https://github.com/christianezeani
+    link: https://github.com/sbnair
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
-
-  - name: twitter
-    link: https://www.twitter.com/christianezeani
-    icon: fab fa-twitter
+ 
 
 
     

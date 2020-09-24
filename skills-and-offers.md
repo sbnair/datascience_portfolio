@@ -3,12 +3,26 @@
 
 # Skills & Offers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
+Financial Indicators : Breadth Indicators, Multi AMA, Dynamic Ind, Multi AMA - Quantile Osc, Vol Multi AMA - Quantile Osc.
 
-Risus nullam eget felis eget. Id faucibus nisl tincidunt eget nullam non nisi. Nam libero justo laoreet sit. Et pharetra pharetra massa massa ultricies mi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Scelerisque eu ultrices vitae auctor. Consequat interdum varius sit amet mattis vulputate enim. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Eget dolor morbi non arcu risus quis varius. Quis viverra nibh cras pulvinar. Ac ut consequat semper viverra nam libero justo. Faucibus et molestie ac feugiat sed lectus vestibulum. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Blandit turpis cursus in hac. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Elementum nibh tellus molestie nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Integer quis auctor elit sed vulputate mi sit amet mauris. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Non pulvinar neque laoreet suspendisse.
+Financial Indicators specified above been developed working with  Investment Banks, Hedge Funds, etc.
 
-Massa massa ultricies mi quis hendrerit dolor magna eget. Eget est lorem ipsum dolor sit amet. Sit amet volutpat consequat mauris nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed risus ultricies tristique nulla aliquet enim tortor. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Id aliquet risus feugiat in. Massa sapien faucibus et molestie ac feugiat sed. Pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh praesent tristique magna sit amet purus gravida quis blandit. Fames ac turpis egestas sed tempus urna. Tortor consequat id porta nibh venenatis cras sed felis. Aenean et tortor at risus viverra adipiscing at in. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac turpis egestas maecenas pharetra convallis. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Amet venenatis urna cursus eget nunc. Elit ut aliquam purus sit amet luctus venenatis. Amet dictum sit amet justo donec enim diam vulputate ut.
+C++,Python, OCaml, R, Wolfram Mathematica, TradeStation,MultiChart, ARIMA Models, Correlation and Covariance,Statistical Models, IQFeed API, Apache Kafka, TD ammeritrade and IB Brokers, Zacks Research.
 
-Gravida neque convallis a cras. Nisi porta lorem mollis aliquam ut. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Euismod elementum nisi quis eleifend. Vel fringilla est ullamcorper eget nulla facilisi etiam. Urna neque viverra justo nec ultrices dui. Morbi blandit cursus risus at ultrices mi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Sit amet porttitor eget dolor morbi non arcu risus quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a.
+Worked in Developing Custom Indicators, Oscillators, Dynamic Bars based on Ranges.
 
-Vel pharetra vel turpis nunc eget lorem. Nunc sed blandit libero volutpat sed cras ornare. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Euismod nisi porta lorem mollis aliquam ut. Magna ac placerat vestibulum lectus. Semper risus in hendrerit gravida rutrum quisque non. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Neque vitae tempus quam pellentesque nec. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. At auctor urna nunc id cursus metus aliquam eleifend mi. Amet consectetur adipiscing elit pellentesque. Eget egestas purus viverra accumsan. Quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed.
+Worked on developing Low Frequency and Medium Frequency Trading apps.
+
+Quantitative Analysis in Financial derivatives products (Equity, Interest Rates, Foreign Exchange).
+
+Project descriptionUsed QuantLib ,F#,Python and Winform for Cash Flow analysis,Commodity Trading applications.
+
+Quantitative and Technical Analysis of Stocks
+
+Project descriptionFundamental analysis was done and screener was built to select stocks (international market) by checking the Profit and Loss statements, Balance Sheet, C
+
+Cash flow statements and also worked on the past 10 to 20 years historical data including Foreign Investment, Institutional Investment, real time data using web sockets.
+
+Analyzed using technologies like Scikit, NLP, Pandas, Numpy, d3.js, BeautifulSoup (Web scrappers), etc for having back testing scenarios, technical indicators like Stochastic 
+
+RSI, Bollingar Bands was customized and developed in python 3 to analyze the day trading scenarios like price breakout, bulk deal, etc.
