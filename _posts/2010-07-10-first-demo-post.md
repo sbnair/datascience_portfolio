@@ -3,7 +3,7 @@ layout: post
 title: Creating Customer Segments
 date: 2020-07-10 13:32:20 +0300
 description: Analyzing customer spending data using Unsupervised Learning techniques for discovering internal structure, patterns and knowledge.
-image: # Add image post (optional)
+image: /assets/images/posts/customer_seg.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Python, Scikit-learn, PCA, Clustering]
 ---

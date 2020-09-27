@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inferential Statistics: Do men or women oppose sex education?
+title: Inferential Statistics
 date: 2020-07-11 13:32:20 +0300
 description: Analysing the GSS (General Social Survey) dataset using R to infer if, in the year 2012, were men, of 18 years or above in the United States, more likely to oppose sex education in public schools than women.
 image: /assets/images/posts/1.jpg
