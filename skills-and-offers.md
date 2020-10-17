@@ -17,9 +17,9 @@ Quantitative Analysis in Financial derivatives products (Equity, Interest Rates,
 
 Project descriptionUsed QuantLib ,F#,Python and Winform for Cash Flow analysis,Commodity Trading applications.
 
-Quantitative and Technical Analysis of Stocks
+Quantitative and Technical Analysis of Stocks.
 
-Project descriptionFundamental analysis was done and screener was built to select stocks (international market) by checking the Profit and Loss statements, Balance Sheet, C
+Project descriptionFundamental analysis was done and screener was built to select stocks (international market) by checking the Profit and Loss statements, Balance Sheet, C.
 
 Cash flow statements and also worked on the past 10 to 20 years historical data including Foreign Investment, Institutional Investment, real time data using web sockets.
 
