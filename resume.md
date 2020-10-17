@@ -5,9 +5,7 @@
 
 Interested and keen to design and develop innovative solutions for problems in business using my technical, managerial and analytical skills. 
 
-Would like to use different technologies to generate insights from different forms of data (both structured and unstructured data) which can be helpful for people and 
-
-business.
+Would like to use different technologies to generate insights from different forms of data (both structured and unstructured data) which can be helpful for people and business.
 
 Projects
 
