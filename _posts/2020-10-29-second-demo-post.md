@@ -3,7 +3,7 @@ layout: post
 title: Analyzing Sentimental Analysis using RNN, CNN for capturing fuel statistics and flight performance based on Text and Image based Data
 date: 2020-10-29 13:32:20 +0300
 description: Text Data being captured from different sources which is being used by RNN and CNN nueral networks to process and display reports
-image: /assets/images/posts/RealStreaming.jpeg
+image: /assets/images/posts/FOQAReadout.png
 fig-caption: # Add figcaption (optional)
 tags: [Python, MultiVariate TimeSeries, NLP, RNN, CNN, TensorFlow 2]
 ---
@@ -20,17 +20,19 @@ tags: [Python, MultiVariate TimeSeries, NLP, RNN, CNN, TensorFlow 2]
 
  5. Defined the Domain Specific Word Embeddings based on business logic, Recurrent drop out for regularization has been used, Word Vectors trainned on large data.
 
- 6. TensorFlow provides a Tokenizer to convert text docs into integer encoded sequences and Defined the RNN archtiecture with forezen weights across all the nueral networks used.
+ 6. TensorFlow provides a Tokenizer to convert text docs into integer encoded sequences and Defined the RNN archtiecture with frozen weights across all the nueral networks used.
 
  7. Preparing Data for RNN model to predict, we created 90:10 training/test split model and also used the Bidirectional GRU unit that scans the text both forward and backward.
 
- 8. Compiled using AdamOptimizer and targetted the Mean Sqaured Loss for this task and we trainned for upto 100 epochs and also tested this model.
+ 8. CNNs captured different images to follow the flight plan, climate, locations , etc using object detection, transfer learning which uses pretrained weights to do the processing using Keras in Python.
 
- 9. Combined the text data and images that we got to use stackedLSTM to process multiple inputs along with CNN to get data.
+ 9. Compiled using AdamOptimizer and targetted the Mean Sqaured Loss for this task and we trainned for upto 100 epochs and also tested this model.
 
- 10. RNNs captured long range dependencies to capture fuel usage predict future fuel usage and predict maintenance if different aircraft types.
+ 10. Combined the text data and images that we got to use stackedLSTM to process multiple inputs along with CNN to get data.
 
- 11. CNNs captured different images to follow the flight plan, climate, locations , etc using object detection, transfer learning which uses pretrained weights to do the processing using Keras in Python.
+ 11. RNNs captured long range dependencies to capture fuel usage predict future fuel usage and predict maintenance for different aircraft types.
+
+
 
 
 
