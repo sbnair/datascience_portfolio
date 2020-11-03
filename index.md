@@ -4,7 +4,7 @@ layout: default
 
 # MY PROFILE
 
-Worked for more than 6 years in Analyzing and generating Insights for various business domains.
+Worked for more than 6 years in Analyzing and generating Insights for various business domains and have hands on total software development experience of more than 18 years.
 
 Developed Low Frequency and Medium Frequency Trading Apps for Norwegian Hedge Funds/Proprietary Trading Firms  in C#, C++, Apache Kafka.
 
