@@ -14,7 +14,7 @@ Developed Markowitz Portfolio Optimization by assigning random weights to portfo
 
 Applied Leaky RELU Activation Function in Deep Learning to update weights of different portfolios in Forward and Backward Propagation.
 
-Developed Software Solutions  :
+Developed Software Solutions for these business domains :
 
 1. Capital Markets (Equity Trading and Research)
 
