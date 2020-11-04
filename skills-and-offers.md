@@ -3,6 +3,10 @@
 
 # Skills & Offers
 
+Worked with git, TFS, SVN, CVS, SourceGear Vault Pro, Bugzilla, Jira to manage software codes, tasks and documentation.
+
+Worked remotely with teams across different timezones (Asia, Europe, North America, Australia) and most of the tools have been used like Zoom, Slack, Teams, Skype, WebEx to communicate with stakeholders of different projects.
+
 Financial Indicators : Breadth Indicators, Multi AMA, Dynamic Ind, Multi AMA - Quantile Osc, Vol Multi AMA - Quantile Osc.
 
 Financial Indicators specified above been developed working with Quant experts in Investment Banks, Hedge Funds, etc.
